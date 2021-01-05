@@ -57,3 +57,4 @@ En [este elnace](setup/README.md) se describen los pasos necesarios para ejecuta
 ## Resources
 [Encuentra aquí una lista completa de recursos de ayuda](https://github.com/bright-coders/commons/tree/master/topics/resources)
 
+## Procedimiento
