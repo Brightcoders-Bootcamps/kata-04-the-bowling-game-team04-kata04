@@ -1,5 +1,5 @@
 require 'rspec'
-require './app/classes/board.rb'
+require '../app/classes/board.rb'
 describe Board do
     it "the board is full" do
         board = Board.new
