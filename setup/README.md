@@ -1,4 +1,3 @@
-![SmallBadge](badges/rubycritic_badge_score.svg)
 # Setup
 
 <b><h1>Ejecución de proyecto.</h1></b>
