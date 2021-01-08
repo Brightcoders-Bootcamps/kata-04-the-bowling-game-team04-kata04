@@ -38,12 +38,15 @@ GEM
     psych (3.3.0)
     public_suffix (4.0.6)
     rainbow (3.0.0)
+    rake (13.0.3)
     reek (6.0.2)
       kwalify (~> 0.7.0)
       parser (>= 2.5.0.0, < 2.8, != 2.5.1.1)
       psych (~> 3.1)
       rainbow (>= 2.0, < 4.0)
     regexp_parser (2.0.3)
+    repo-small-badge (0.2.7)
+      victor (~> 0.2.8)
     rexml (3.2.4)
     rspec (3.10.0)
       rspec-core (~> 3.10.0)
@@ -83,6 +86,8 @@ GEM
       simplecov (>= 0.17.0)
       tty-which (~> 0.4.0)
       virtus (~> 1.0)
+    rubycritic-small-badge (0.2.1)
+      repo-small-badge (~> 0.2.7)
     sandi_meter (1.2.0)
       json
       launchy
@@ -97,6 +102,7 @@ GEM
     thread_safe (0.3.6)
     tty-which (0.4.2)
     unicode-display_width (1.7.0)
+    victor (0.2.8)
     virtus (1.0.5)
       axiom-types (~> 0.1)
       coercible (~> 1.0)
@@ -108,9 +114,11 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  rake
   rspec
   rubocop
   rubycritic
+  rubycritic-small-badge
   sandi_meter
 
 BUNDLED WITH
